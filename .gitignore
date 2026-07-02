@@ -1,0 +1,9 @@
+
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+__pycache__/
+*.pyc
+
+CWRU_Bearing_NumPy/CWRU_Bearing_NumPy 
